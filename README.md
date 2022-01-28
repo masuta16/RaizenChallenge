@@ -5,7 +5,7 @@ Here's the link to the database files:
 https://dados.gov.br/dataset/vendas-de-derivados-de-petroleo-e-biocombustiveis
 
 
-One thing who were missing was the metadata too, but here is:
+The metadata was missed too, but here is:
 
 Metadata 1 has petroleum derivates by UF and products:
 https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/metadados-vendas-derivados-petroleo-etanol.pdf
