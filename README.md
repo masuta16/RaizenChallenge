@@ -27,7 +27,8 @@ Firstly you need docker installed on you computer then you should follow the ins
 https://docs.docker.com/engine/install/
 After that type those commands bellow on your terminal
 ```
-git clone https://github.com/masuta16/RaizenChallenge cd etl-raizen 
+git clone https://github.com/masuta16/RaizenChallenge
+cd RaizenChallenge 
 docker-compose up --build 
 access on browser 
 http://localhost:8080
