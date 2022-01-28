@@ -22,13 +22,17 @@ Link for CSV equivalent file:
 `https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vct/vendas-oleo-diesel-tipo-m3-2013-2021.csv`
 
 
-To execute this test follow up the instructions bellow
+To execute this test follow up the instructions bellow:
+Firstly you need docker installed on you computer then you should follow the instructions on this link to install docker
+https://docs.docker.com/engine/install/
+After that type those commands bellow on your terminal
 ```
 git clone https://github.com/masuta16/RaizenChallenge cd etl-raizen 
 docker-compose up --build 
 access on browser 
 http://localhost:8080
 ```
+
 
 
 
