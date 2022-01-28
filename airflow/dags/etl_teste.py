@@ -34,7 +34,7 @@ def dieselCSV():
   df2.to_csv('vendas-oleo-diesel-tipo.csv', index=False)
   df.to_parquet('vendas-oleo-diesel-tipo.parquet')
 
-def derivadosCSV(self):
+def derivadosCSV():
   #base de dados 1
   df = pd.read_csv('https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/vendas-derivados-petroleo-etanol-m3-1990-2021.csv',sep=';' )
   df["year_month"] = df['ANO'].map(str)+ '-' + df['MÊS'].map(str) 
