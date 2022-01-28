@@ -53,7 +53,7 @@ def calculaTabela():
 
 def valida_teste(ti):
   num = ti.xcom_pull(task_ids='calculaTabela')
-  if (num==8652):
+  if (num==86859):
     return 'valido'
   return 'invalido'
 
