@@ -10,7 +10,7 @@ The metadata was missed too, but here is:
 Metadata 1 has petroleum derivates by UF and products:
 https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/metadados-vendas-derivados-petroleo-etanol.pdf
 
-*The metadata PDF file has a description of the columns inside the CSV file required.
+*The metadata PDF file has a description of columns inside the CSV file required.
 
 Link for CSV equivalent file:
 https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/vendas-derivados-petroleo-etanol-m3-1990-2021.csv
