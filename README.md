@@ -22,7 +22,7 @@ Link for CSV equivalent file:
 https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vct/vendas-oleo-diesel-tipo-m3-2013-2021.csv
 
 
-git clone https://github.com/FelipeGaleao/etl-raizen cd etl-raizen 
+git clone https://github.com/masuta16/RaizenChallenge cd etl-raizen 
 docker-compose up --build 
 access on browser 
 http://localhost:8080
