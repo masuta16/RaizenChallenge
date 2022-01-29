@@ -45,6 +45,7 @@ Here's an image of airflow dag
 - [Pandas library documentation](https://pandas.pydata.org/docs/reference/)
 - [How to install Docker](https://docs.docker.com/engine/install/)
 - [Python 3 documentation](https://docs.python.org/3/)
+- [Let's talk about DAGs in Apache Airflow(Portuguese)](https://medium.com/@mestre15/vamos-falar-de-dags-no-apache-airflow-3e1d78c968d7)
 
 
 
