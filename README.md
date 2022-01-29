@@ -42,6 +42,8 @@ Here's an image of airflow dag
 - [Webpage with Raizen challenge](https://github.com/raizen-analytics/data-engineering-test)
 - [About Raizen](https://www.raizen.com.br/sobre-a-raizen)
 - [Apache Airflow documentation](https://airflow.apache.org/docs/apache-airflow/stable/)
+- [Pandas library documentation](https://pandas.pydata.org/docs/reference/)
+- [How to install Docker](https://docs.docker.com/engine/install/)
 
 
 
