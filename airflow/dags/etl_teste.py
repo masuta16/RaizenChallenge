@@ -25,6 +25,7 @@ default_args = {
     }
 
 def extractANP():
+  import pandas as pd
   df2 = pd.read_csv('https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vct/vendas-oleo-diesel-tipo-m3-2013-2021.csv',sep=';')
   df2["year_month"] = df2['ANO'].map(str)+ '-' + df2['MÊS'].map(str) 
   df2.drop(["ANO", "MÊS"], axis = 1, inplace = True)
@@ -40,11 +41,11 @@ def extractANP():
   #merge two dataframes with same index
   df = df[~df['product'].str.contains('ETANOL HIDRATADO', na=False)]
   df3=pd.concat([df,df2], axis=0)
-  df['volume'] = pd.to_numeric(df['volume'])
   df3.to_csv('solution_raizen.csv', index=False)
 
 
 def calculaTabela():
+  import pandas as pd
   df2 = pd.read_csv('https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vct/vendas-oleo-diesel-tipo-m3-2013-2021.csv',sep=';')
   df = pd.read_csv('https://www.gov.br/anp/pt-br/centrais-de-conteudo/dados-abertos/arquivos/vdpb/vendas-derivados-petroleo-e-etanol/vendas-derivados-petroleo-etanol-m3-1990-2021.csv',sep=';' )
   df = df[~df['PRODUTO'].str.contains('ETANOL HIDRATADO', na=False)]
