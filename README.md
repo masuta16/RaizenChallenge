@@ -1,6 +1,6 @@
-# RaizenChallenge
+# Raizen data engineering challenge
 
-Correction: The Raizen challenge gives wrong data, then the correct data, in fact, is located in another web address.
+Correction: The Raizen data engineering challenge gives wrong data, then the correct data, in fact, is located in another web address.
 Here's the link to the database files:
 `https://dados.gov.br/dataset/vendas-de-derivados-de-petroleo-e-biocombustiveis`
 
