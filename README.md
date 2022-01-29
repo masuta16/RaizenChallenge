@@ -39,7 +39,7 @@ Here's an image of airflow dag
 
 <p align="center">
   <a href="https://ant.design">
-    <img width="200" src="https://3.bp.blogspot.com/-3o66FY0sxww/V1K73uQaskI/AAAAAAAAQZI/KkegqDYpz7QkZzBCW9oetqNgEW-klFrHgCLcB/s1600/folks.jpg">
+    <img width="1200" src="https://3.bp.blogspot.com/-3o66FY0sxww/V1K73uQaskI/AAAAAAAAQZI/KkegqDYpz7QkZzBCW9oetqNgEW-klFrHgCLcB/s1600/folks.jpg">
   </a>
 </p>
 
