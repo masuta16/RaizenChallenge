@@ -44,6 +44,7 @@ Here's an image of airflow dag
 - [Apache Airflow documentation](https://airflow.apache.org/docs/apache-airflow/stable/)
 - [Pandas library documentation](https://pandas.pydata.org/docs/reference/)
 - [How to install Docker](https://docs.docker.com/engine/install/)
+- [Python 3 documentation](https://docs.python.org/3/)
 
 
 
