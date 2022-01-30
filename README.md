@@ -42,7 +42,7 @@ Here's an image of airflow dag in graph view
 Data was stored in the following format:
 
 | Column       | Type        |
-| ------------ | ----------- |
+| :-:          | :-:         |
 | `year_month` | `date`      |
 | `uf`         | `string`    |
 | `product`    | `string`    |
