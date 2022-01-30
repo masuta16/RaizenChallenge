@@ -35,7 +35,7 @@ http://localhost:8080
 ```
 Here's an image of airflow dag
 
-![alt text](https://raw.githubusercontent.com/masuta16/RaizenChallenge/main/images/Screenshot%20from%202022-01-28%2020-15-02.png)
+![alt text](https://raw.githubusercontent.com/masuta16/RaizenChallenge/main/images/Screenshot%20from%202022-01-30%2002-48-47.png)
 
 ## 🔗 Links
 
