@@ -47,7 +47,7 @@ Data was stored in the following format:
 | `uf`         | `string`    |
 | `product`    | `string`    |
 | `unit`       | `string`    |
-| `volume`     | `double`    |
+| `sales_vol`  | `int`       |
 | `created_at` | `timestamp` |
 
 ## 🔗 Links
