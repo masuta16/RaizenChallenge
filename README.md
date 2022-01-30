@@ -48,7 +48,7 @@ Data was stored in the following format:
 | `product`    | `string`    |
 | `unit`       | `string`    |
 | `sales_vol`  | `int`       |
-| `created_at` | `timestamp` |
+<!-- | `created_at` | `timestamp` | -->
 
 ## 🔗 Links
 
